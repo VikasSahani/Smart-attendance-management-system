@@ -1,5 +1,5 @@
-# Face-detection-and-attandence-management-system-
-Attandence management system using face detection 
+# Face-detection-and-attendance-management-system-
+Attendance management system using face detection 
 
 In these project we are using python,opencv,numpy library,dlib library,and face detection trained model
 
