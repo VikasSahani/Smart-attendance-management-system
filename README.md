@@ -1,7 +1,7 @@
 # Face-detection-and-attendance-management-system-
 Attendance management system using face detection 
 
-In these project we are using python,opencv,numpy library,dlib library,and face detection trained model
+In these project we are using python,opencv,numpy library,dlib library,and face detection trained model,and student can access their data using website having login ,register and logout functionality
 
 following steps used to complete this project which is used by model to predict the more accurate result:
 1) Encode a picture using the HOG algorithm to create a simplified version of the image. 
@@ -16,3 +16,6 @@ following steps used to complete this project which is used by model to predict 
 
 
 ** for better understanding of alogrithm used you can refer this blog:- https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78
+
+
+here are some screenshot of project
