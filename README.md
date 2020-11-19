@@ -19,3 +19,7 @@ following steps used to complete this project which is used by model to predict 
 
 
 here are some screenshot of project
+![](ref_img/ref1.png)
+![](ref_img/ref2.png)
+![](ref_img/ref3.png)
+![](ref_img/ref4.png)
